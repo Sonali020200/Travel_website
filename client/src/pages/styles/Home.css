@@ -38,7 +38,6 @@
 
 @media only screen and (min-width:550px) {
     .backaground_image{
-        /* background-position: 0px -120px; */
         background-size: cover;
     }
     .offers_img{
@@ -48,7 +47,6 @@
 }
 @media only screen and (min-width:800px) {
     .backaground_image{
-        /* background-position: 0px -220px; */
         background-size: cover;
     }
     .offers_img{
@@ -64,7 +62,6 @@
 }
 @media only screen and (min-width:1080px) {
     .backaground_image{
-        /* background-position: 0px -320px; */
         background-size: cover;
     }
     .offers_img{
