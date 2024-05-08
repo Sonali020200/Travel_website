@@ -57,7 +57,7 @@ export const getCurrentBookings = async (req, res) => {
       status: "Booked",
     })
       .populate("packageDetails")
-      // .populate("buyer", "username email")
+     
       .populate({
         path: "buyer",
         match: {

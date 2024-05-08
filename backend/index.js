@@ -13,12 +13,6 @@ dotenv.config();
 
 const __dirname = path.resolve();
 
-mongoose
-  .connect(process.env.MONGO_URL)
-  .then(() => {
-    console.log("MongoDB Connected");
-  })
-  .catch((err) => console.log(err));
 
 app.use(express.json());
 app.use(cookieParser());
@@ -35,6 +29,12 @@ app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "client", "dist", "index.html"));
 });
 
+mongoose
+  .connect(process.env.MONGO_URL)
+  .then(() => {
+    console.log("MongoDB Connected");
+  })
+  .catch((err) => console.log(err));
 
 app.listen(8000, () => {
   console.log("listening on 8000");

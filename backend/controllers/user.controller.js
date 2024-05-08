@@ -1,7 +1,6 @@
 import User from "../models/user.model.js";
 import bcryptjs from "bcryptjs";
 
-//update uset details
 export const updateUser = async (req, res) => {
   if (req.user.id !== req.params.id) {
     return res.status(401).send({
@@ -9,7 +8,6 @@ export const updateUser = async (req, res) => {
       message: "You can only update your own account please login again!",
     });
   }
-  //   console.log(req.body.phone);
 
   try {
     const updatedUser = await User.findByIdAndUpdate(
@@ -143,7 +141,7 @@ export const deleteUserAccount = async (req, res, next) => {
     });
   try {
     await User.findByIdAndDelete(req.params.id);
-    res.clearCookie("access_token"); //clear cookie before sending json
+    res.clearCookie("access_token"); 
     res.status(200).send({
       success: true,
       message: "User account has been deleted!",
