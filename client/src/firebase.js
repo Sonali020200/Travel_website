@@ -3,11 +3,11 @@ import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "mern-travel-tourism.firebaseapp.com",
-  projectId: "mern-travel-tourism",
-  storageBucket: "mern-travel-tourism.appspot.com",
-  messagingSenderId: "304378877141",
-  appId: "1:304378877141:web:3bddab2778ca23186f7e5c",
+  authDomain: "travel-website-7dc3c.firebaseapp.com",
+  projectId: "travel-website-7dc3c",
+  storageBucket: "travel-website-7dc3c.appspot.com",
+  messagingSenderId: "503305790829",
+  appId: "1:503305790829:web:7de41302f4ff57b245a664",
 };
 
 
