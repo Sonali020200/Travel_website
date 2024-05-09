@@ -1,7 +1,19 @@
 
-**Travelopia Website**
+## Travelopia Website
 
 Welcome to Travelopia, a dynamic travel booking platform built with React.js, Node.js, MongoDB, and Tailwind CSS.
+
+
+**Video Walkthrough**
+
+Check out this video walkthrough demonstrating the functionality of Travelopia:
+
+
+
+
+https://github.com/Sonali020200/Travel_website/assets/147674653/8d8adce8-8c7d-41d6-9d98-8337dc27af9d
+
+
 
 **Features:**
 
