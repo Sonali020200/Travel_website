@@ -75,7 +75,7 @@ npm run dev
 Here are some preview images of Travelopia:
 
 - Home Page:
-![Home Page](preview_images/home_page.png)
+![Home Page](./client/src/assets/images/Home_page.png)
 
 - Destination Details:
 ![Destination Details](preview_images/destination_details.png)
