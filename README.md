@@ -1,5 +1,5 @@
 
-##Travelopia Website
+**Travelopia Website**
 
 Welcome to Travelopia, a dynamic travel booking platform built with React.js, Node.js, MongoDB, and Tailwind CSS.
 
