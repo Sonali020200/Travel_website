@@ -77,9 +77,27 @@ Here are some preview images of Travelopia:
 - Home Page:
 ![Home Page](./client/src/assets/images/Home_page.png)
 
+- Signup Page:
+![Signup Page](./client/src/assets/images/Signup_page.png)
+
+- Login Page:
+![Login Page](./client/src/assets/images/login_page.png)
+
 - Destination Details:
-![Destination Details](preview_images/destination_details.png)
+![Destination Details](./client/src/assets/images/booking%20details.png)
 
 - Booking Page:
-![Booking Page](preview_images/booking_page.png)
+![Booking Page](./client/src/assets/images/booking_Page.png)
+
+- All booking details:
+![Booking Page](./client/src/assets/images/All_bookings.png)
+
+- Booking History:
+![Booking history Page](./client/src/assets/images/booking_history.png)
+
+- Feedback Added:
+![Feedback Page](./client/src/assets/images/feedback.png)
+
+- Profile photo uploaded and Loggedout page:
+![Log-out Page](./client/src/assets/images/logout%20&%20uploading%20profile%20photo.png)
 
