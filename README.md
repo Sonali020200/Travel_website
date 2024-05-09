@@ -1,11 +1,11 @@
 
-## Travelopia Website
+### Travelopia Website
 
 Welcome to Travelopia – your ultimate destination for planning and booking unforgettable travel experiences! 
 At Travelopia, we believe that travel is not just about reaching a destination; it's about the journey and the experiences along the way. Our platform is designed to inspire, empower, and simplify the travel planning process, helping you turn your wanderlust into reality.
 
 
-**Video Walkthrough**
+## Video Walkthrough
 
 Check out this video walkthrough demonstrating the functionality of Travelopia:
 
@@ -16,7 +16,7 @@ https://github.com/Sonali020200/Travel_website/assets/147674653/8d8adce8-8c7d-41
 
 
 
-**Features:**
+## Features:
 
 1. **User Authentication:**
    - Users can sign up for an account and log in securely.
@@ -35,7 +35,7 @@ https://github.com/Sonali020200/Travel_website/assets/147674653/8d8adce8-8c7d-41
    - Users can provide feedback and ratings for destinations they've visited.
    - Ratings help other users make informed decisions about their travel plans.
 
-**Technologies Used:**
+## Technologies Used:
 
 - **Frontend:**
   - React.js: A JavaScript library for building user interfaces.
@@ -45,7 +45,7 @@ https://github.com/Sonali020200/Travel_website/assets/147674653/8d8adce8-8c7d-41
   - Node.js: A JavaScript runtime environment for building server-side applications.
   - MongoDB: A NoSQL database for storing user data, travel destinations, and bookings.
 
-**Getting Started:**
+## Getting Started:
 
 1. **Clone the Repository:**
 ```bash
@@ -83,7 +83,7 @@ npm run dev
 - Book your dream vacation and share your feedback with the community.
 
 
-6. **Preview Images:**
+## Preview Images:
 
 Here are some preview images of Travelopia:
 
