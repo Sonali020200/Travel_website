@@ -4,6 +4,9 @@
 Welcome to Travelopia – your ultimate destination for planning and booking unforgettable travel experiences! 
 At Travelopia, we believe that travel is not just about reaching a destination; it's about the journey and the experiences along the way. Our platform is designed to inspire, empower, and simplify the travel planning process, helping you turn your wanderlust into reality.
 
+## Live Demo
+
+https://mern-travel-tourism-app.onrender.com/
 
 ## Video Walkthrough
 
