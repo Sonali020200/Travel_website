@@ -6,8 +6,7 @@ At Travelopia, we believe that travel is not just about reaching a destination; 
 
 ## Live Demo
 
-https://mern-travel-tourism-app.onrender.com/
-
+https://trips-travel.vercel.app/home
 
 
 ## Features:
